@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📈 Open Source Projects
 
 
-- [phlower](https://github.com/your-username/phlower)  
+- [phlower](https://github.com/ricosjp/phlower)  
   A deep learning framework that integrates physical dimensions into numerical simulation.  
   → Combines machine learning and physics for advanced simulations.
 

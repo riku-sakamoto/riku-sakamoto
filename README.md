@@ -13,19 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Riku Sakamoto</h1>
-<h3 align="center">Machine Learning Engineer | Simulation Software Engineer </h3>
-
-
----
-
-### 🛠 Tech Stack
-
-- 💻 Programming: Python / C# / C++  
-- 🔬 Simulation: FEM / CFD  
-- 🤖 ML Frameworks: PyTorch 
-- 📊 Others: Linux / Git
-
+<h1 align="center">Hi there👋, I'm Riku Sakamoto</h1>
 
 ---
 
@@ -35,12 +23,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 Open Source Projects
+### 📈 OSS Projects I Maintain
 
 
 - [phlower](https://github.com/ricosjp/phlower)  
   A deep learning framework that integrates physical dimensions into numerical simulation.  
-  → Combines machine learning and physics for advanced simulations.
 
 
 - [dagstream](https://github.com/ricosjp/dagstream)  
